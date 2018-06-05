@@ -3,7 +3,7 @@ Genomic evidence that biodiversity can help optimize the quantity and quality of
 
 Authors: Sara L. Jackrel, Anita Narwani, Bastian Bentlage, Bobby Levine, David C. Hietala, Phillip E. Savage, Todd H. Oakley, Vincent J. Denef, Bradley J. Cardinale
 
-Accepted by                   on 
+Appplied and Environmental Microbiology 
 
 - Link to the article: 
 
