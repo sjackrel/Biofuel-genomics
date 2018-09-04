@@ -10,3 +10,5 @@ Appplied and Environmental Microbiology
 - Link to the rendered code file for production of all figures and statistical analyses:
 
 This repository is actively being updated, check back soon!
+
+[AEM_RMarkdown.html](AEM_RMarkdown.html)
