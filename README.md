@@ -12,3 +12,5 @@ Appplied and Environmental Microbiology
 This repository is actively being updated, check back soon!
 
 [AEM_RMarkdown.html](AEM_RMarkdown.html)
+
+[click here!](https://sjackrel.github.io/Biofuel-genomics/AEM_RMarkdown.html)
