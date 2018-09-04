@@ -5,12 +5,8 @@ Authors: Sara L. Jackrel, Anita Narwani, Bastian Bentlage, Robert Levine, David 
 
 Appplied and Environmental Microbiology 
 
-- Link to the article: 
+[Link to the article](https://aem.asm.org/content/early/2018/05/14/AEM.00953-18)
 
-- Link to the rendered code file for production of all figures and statistical analyses:
-
-This repository is actively being updated, check back soon!
+[Link to the code file for production of all figures and statistical analyses](https://sjackrel.github.io/Biofuel-genomics/AEM_RMarkdown.html)
 
 [AEM_RMarkdown.html](AEM_RMarkdown.html)
-
-[click here!](https://sjackrel.github.io/Biofuel-genomics/AEM_RMarkdown.html)
